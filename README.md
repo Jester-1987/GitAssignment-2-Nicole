@@ -1,1 +1,2 @@
 # GitAssignment-2-Nicole
+This is a readme file. Pretend there are a whole bunch of complicated instructions to properly download and install a really complicated piece of software that **absolutely changes the world**... or makes your machine kaput. Whatever works.
